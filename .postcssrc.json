@@ -1,0 +1,11 @@
+{
+    "plugins": {
+        "autoprefixer": {
+            "browsers": [
+                "since 2015",
+                "last 100 version",
+                "not dead"
+            ]
+        }
+    }
+}
